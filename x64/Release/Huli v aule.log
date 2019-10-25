@@ -1,0 +1,8 @@
+﻿  Source.cpp
+C:\Users\Izumroot\source\repos\Huli v aule\Source.cpp(15,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода
+  0 of 120 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  Huli v aule.vcxproj -> C:\Users\Izumroot\source\repos\Huli v aule\x64\Release\Huli v aule.exe
